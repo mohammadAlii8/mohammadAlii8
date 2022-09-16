@@ -6,7 +6,7 @@
 
 *   🖥️  See my portfolio at ...
 *   🚀  I'm currently working on ...
-*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+*   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.twitter.com/Mohammadalii_8" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/Mohammadalii_8?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
