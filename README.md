@@ -5,7 +5,7 @@
 -----------------------------
 
 *   🖥️  See my portfolio at ...
-*   🚀  I'm currently working on ...
+*   🚀  I'm currently learning on React.js
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://www.twitter.com/Mohammadalii_8" target="_blank" rel="noreferrer"><img
